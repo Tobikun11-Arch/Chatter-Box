@@ -52,7 +52,7 @@ yarn.lock
 
 # Express.js
 # Ignore the backend folder if it's part of the root directory
-backend/
+# backend/ add backend folder to gitignore if its handle a sensitive data
 
 # Custom ignore folder (you can add specific folders/files you want to ignore)
 ignore/
